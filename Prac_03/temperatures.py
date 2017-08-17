@@ -1,8 +1,6 @@
 """
 CP1404 - Practical
 Pseudocode for temperature conversion
-help me
-
 """
 
 def main():
